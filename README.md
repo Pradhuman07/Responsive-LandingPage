@@ -14,4 +14,4 @@ It was created as part of my practice and learning journey in web development.
 
 ## 📸 Screenshot
 
-![Landing Page Screenshot](screenshot.png)
+![Landing Page Screenshot](images/screenshot.png)
