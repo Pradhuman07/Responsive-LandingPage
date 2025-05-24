@@ -14,4 +14,10 @@ It was created as part of my practice and learning journey in web development.
 
 ## 📸 Screenshot
 
+### Desktop View :
+
 ![Landing Page Screenshot](images/screenshot.png)
+
+### Mobile View :
+
+![Landing Page Screenshot](images/mobile_view.jpg)
