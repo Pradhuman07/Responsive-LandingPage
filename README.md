@@ -20,4 +20,4 @@ It was created as part of my practice and learning journey in web development.
 
 ### Mobile View :
 
-![Landing Page Screenshot](images/mobile_view.jpg)
+![Landing Page Screenshot](images/mobile-view.png)
